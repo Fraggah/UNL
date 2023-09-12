@@ -1,0 +1,3 @@
+Juan Pirola,15866954,Psicologia,Muy Bueno
+Lisandra Colemann,28547566,Lengua,Sobresaliente
+Fausto Carreras,32559865,Fisica,Insuficiente
