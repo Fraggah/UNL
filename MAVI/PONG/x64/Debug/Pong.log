@@ -1,0 +1,34 @@
+﻿  Pong.cpp
+D:\Projects\PONG\Pong.cpp(111,69): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\PONG\Pong.cpp(111,45): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\PONG\Pong.cpp(509,81): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\PONG\Pong.cpp(509,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\PONG\Pong.cpp(518,81): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\PONG\Pong.cpp(518,57): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\Projects\PONG\Pong.cpp(528,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Projects\PONG\Pong.cpp(528,50): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Pong.vcxproj -> D:\Projects\PONG\x64\Debug\Pong.exe
